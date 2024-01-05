@@ -42,7 +42,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [ManUtopiK/fastify-cli](https://github.com/ManUtopiK/fastify-cli)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|35<br/>Tools used|12/14/23 <br/>Report generated|
+|36<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -192,15 +192,16 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (20)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (21)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (20)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (21)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@types/node](https://www.npmjs.com/@types/node)|v14.14.14|04/14/21|dependabot[bot] |MIT|N/A|
 |[blessed](https://www.npmjs.com/blessed)|v0.1.81|03/25/20|Glen Keane |MIT|N/A|
 |[blessed-contrib](https://www.npmjs.com/blessed-contrib)|v4.8.18|03/25/20|Glen Keane |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v4.1.0|07/01/20|Matteo Collina |MIT|N/A|
 |[chokidar](https://www.npmjs.com/chokidar)|v3.3.1|03/19/20|Matteo Collina |MIT|N/A|
 |[concurrently](https://www.npmjs.com/concurrently)|v6.0.0|02/22/21|dependabot[bot] |MIT|N/A|
 |[del-cli](https://www.npmjs.com/del-cli)|v3.0.1|12/26/20|Igor Savin |MIT|N/A|
